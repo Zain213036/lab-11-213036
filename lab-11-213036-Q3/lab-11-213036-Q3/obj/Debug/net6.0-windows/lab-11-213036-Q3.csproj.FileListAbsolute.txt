@@ -1,0 +1,5 @@
+C:\Users\213036\source\repos\lab-11-213036-Q3\lab-11-213036-Q3\obj\Debug\net6.0-windows\lab-11-213036-Q3.csproj.AssemblyReference.cache
+C:\Users\213036\source\repos\lab-11-213036-Q3\lab-11-213036-Q3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\213036\source\repos\lab-11-213036-Q3\lab-11-213036-Q3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\213036\source\repos\lab-11-213036-Q3\lab-11-213036-Q3\obj\Debug\net6.0-windows\lab-11-213036-Q3_MarkupCompile.cache
+C:\Users\213036\source\repos\lab-11-213036-Q3\lab-11-213036-Q3\obj\Debug\net6.0-windows\lab-11-213036-Q3_MarkupCompile.lref
